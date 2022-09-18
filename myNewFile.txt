@@ -1,1 +1,3 @@
 I`m new file 
+New Text
+Again
