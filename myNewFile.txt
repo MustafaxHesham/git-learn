@@ -1,7 +1,1 @@
-Not Staged
-Staged
-Test short status
-test
-Not Staged
-
-not staged
+Another
